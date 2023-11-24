@@ -1,1 +1,1 @@
-# devops22.7567-5
+# Repositório para avaliação de atividades da matéria de DevOps
